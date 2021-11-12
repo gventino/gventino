@@ -1,6 +1,5 @@
 ### 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ventinos)](https://github.com/Ventinos/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ventinos&show_icons=true)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ventinos&show_icons=true&theme=github_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ventinos)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/Ventinos/github-readme-stats">
