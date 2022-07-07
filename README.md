@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Ventinos&show_icons=true&theme=github_dark)
 [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ventinos&show_icons=true&theme=github_dark)](https://github.com/Ventinos/github-readme-stats)
 
-<a href="https://app.daily.dev/Ventinos"><img src="https://api.daily.dev/devcards/0e7f34bc55b842389c736b94b8325cd6.png?r=2l1" width="400" alt="Gustavo V.'s Dev Card"/></a>
+
 <!--
 **Ventinos/Ventinos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
