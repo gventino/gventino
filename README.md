@@ -7,7 +7,7 @@ Eu sou Gustavo Ventino, estudante de Ciências da Computação na **UFU**(Univer
 Dê uma olhada nos meus projetos!
 
 ## 📫 Meio de Contato:
-  - E-MAIL: gustavo.ventino01@ufu.br
+  - E-MAIL: g.ventinos@gmail.com
 
 <!--
 **Ventinos/Ventinos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
