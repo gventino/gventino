@@ -4,9 +4,11 @@ Eu sou Gustavo Ventino, estudante de **Ciências da Computação** na **UFU**(Un
 
 Dê uma olhada nos meus projetos!
 
-Tenho muita coisa no meu replit também, dê uma olhada
+Tenho muita coisa no meu replit também, dê uma olhada:
 [REPLIT](https://replit.com/@Ventinos)
 
+Olhe meu currículo também:
+[Currículo](https://ventinos.github.io/curriculum/)
 
 <!--
 **Ventinos/Ventinos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
