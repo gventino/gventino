@@ -1,6 +1,6 @@
 # Seja bem vindo!
 ## 🤔 Quem sou eu?
-Eu sou Gustavo Ventino, estudante de **Ciências da Computação** na **UFU**(Universidade Federal de Uberlândia), apaixonado pela área de **TI** e pelo conteúdo que compõe a grade curricular do meu curso! Gosto muito de desenvolver os projetos com base no quê nos é passado nas aulas e disciplinas e faço isso com muito apreço, comecei a programar na pandemia de COVID-19 por *hobby* com **Javascript**, **HTML** e **CSS**, mas vi na universidade até agora as linguagens **C**, **Prolog**, **Java**, **Haskell**, **R**, **SQL** e aprendi **C++** à parte, assim como **Python**, estou aprendendo atualmente **Ruby On Rails** e **Java SpringBoot**.
+Eu sou Gustavo Ventino, estudante de **Ciências da Computação** na **UFU**(Universidade Federal de Uberlândia), apaixonado pela área de **TI** e pelo conteúdo que compõe a grade curricular do meu curso! Gosto muito de desenvolver os projetos com base no quê nos é passado nas aulas e disciplinas e faço isso com muito apreço, comecei a programar na pandemia de COVID-19 por *hobby* com **Javascript**, **HTML** e **CSS**, mas vi na universidade até agora as linguagens **C**, **Prolog**, **Java**, **Haskell**, **R**, **SQL** e aprendi **C++** à parte, assim como **Python**, estou aprendendo atualmente **Java SpringBoot**.
 
 Dê uma olhada nos meus projetos!
 
