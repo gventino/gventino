@@ -1,26 +1,9 @@
 # Seja bem vindo!
 ## 🤔 Quem sou eu?
-Eu sou Gustavo Ventino, estudante de **Ciências da Computação** na **UFU**(Universidade Federal de Uberlândia), apaixonado pela área de **TI** e pelo conteúdo que compõe a grade curricular do meu curso! Gosto muito de desenvolver os projetos com base no quê nos é passado nas aulas e disciplinas e faço isso com muito apreço, comecei a programar na pandemia de COVID-19 por *hobby* com **Javascript**, **HTML** e **CSS**, mas vi na universidade até agora as linguagens **C**, **Prolog**, **Java**, **Haskell**, **R**, **SQL** e aprendi **C++** à parte, assim como **Python**, estou atualmente trabalhando na Kanastra como IT Intern.
+Eu sou Gustavo Ventino, estudante de **Ciências da Computação** na **UFU**(Universidade Federal de Uberlândia), apaixonado pela área de **TI** e pelo conteúdo que compõe a grade curricular do meu curso! Gosto muito de desenvolver os projetos com base no quê nos é passado nas aulas e disciplinas e faço isso com muito apreço, comecei a programar na pandemia de COVID-19 por *hobby*. Trabalhei por 6 meses como estagiário dando manutenção em um sistema de backoffice legado **Java**. Atualmente sou Tech Intern na Kanastra Tech, passei 4 meses atuando como desenvolvedor em uma API HPA (High Performance Application) escrita em **Go** para custódia de fundos de investimento de direitos creditórios, e integrando a API com um monolito em **Laravel**. Atualmente estou atuando na frente de banking, mais especificamente no sistema de empréstimos, usando **NestJS**.
 
 Dê uma olhada nos meus projetos!
 
-Tenho muita coisa no meu replit também, dê uma olhada:
-[REPLIT](https://replit.com/@Ventinos)
-
-Olhe meu currículo também:
+Olhe meu currículo:
+[LinkedIn](https://www.linkedin.com/in/gustavo-duarte-ventino-65395a2a5/)
 [Currículo](https://gventino.github.io/curriculum/)
-
-<!--
-**Ventinos/Ventinos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
