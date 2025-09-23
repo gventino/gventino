@@ -27,7 +27,7 @@ Olhe meu currículo:
 - gosto de problemas e desafios
       {
         um cientista da computação tem que gostar de problema,
-        uma vez que pela "Teoria da Computação": há mais problemas do que programas
+        uma vez que, pela "Teoria da Computação": há mais problemas do que programas
       };
 
 - sou nerdzinho e desenvolvo hiperfoco muito rápido em algumas coisas;
