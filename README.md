@@ -27,10 +27,7 @@ Olhe meu currículo:
         uma vez que, pela "Teoria da Computação": há mais problemas do que programas
       };
 
-- sou nerdzinho e desenvolvo hiperfoco muito rápido em algumas coisas;
-
-- not a big fan of LLMs
-      { uso somente como copiloto/assistente, acho vibe coding meio bobo };
+- sou nerdzinho e desenvolvo hiperfoco muito rápido em algumas coisas
 ```
 ### Leitura do momento:
 
