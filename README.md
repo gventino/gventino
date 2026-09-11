@@ -1,8 +1,7 @@
 ## 🤔 Quem sou eu?
 
-Olhe meu currículo:
+Olhe meu linkedin:
 [LinkedIn](https://www.linkedin.com/in/gustavo-duarte-ventino-65395a2a5/)
-[Currículo](https://gventino.github.io/curriculum/)
 
 
 ## _Resumidamente:_ 
